@@ -1,0 +1,8 @@
+visual_odometry:
+  ros__parameters:
+    loam_verbose_level: 1
+    reset_VO_to_identity: True
+    remove_VO_outlier: 0
+    CLAHE: True
+    visualize_optical_flow: False
+    optical_flow_match: False

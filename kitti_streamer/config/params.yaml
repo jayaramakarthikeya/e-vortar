@@ -1,0 +1,6 @@
+streamer_node:
+  ros__parameters:
+    sequence: '00'
+    data_dir: '/home/karthik/vloam/dataset/'
+    odom_dir: '/home/karthik/vloam/dataset/'
+    odom : True
