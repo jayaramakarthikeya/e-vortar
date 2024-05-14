@@ -80,7 +80,12 @@ In order to run just the kitti streamer we can run:
 ros2 launch kitti_streamer kitti_streamer_node.launch.py
 ```
 
+
+
 In order to run the full pipeline please run:
 ```
 ros2 launch visual_odometry visual_odom.launch.py
 ```
+Contact if there is any problem to:\
+[jkarthik@seas.upenn.edu](jkarthik@seas.upenn.edu)\
+[aakash24@seas.upenn.edu](aakash24@seas.upenn.edu)
